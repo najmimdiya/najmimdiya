@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I am a passionate and curious learner, currently a <b>3rd Year, 1st Semester</b> student of <b>Computer Science & Engineering (CSE)</b> at <b>Jahangirnagar University</b>.
+I am a passionate and curious learner, currently a <b>3rd Year, 2nd Semester</b> student of <b>Computer Science & Engineering (CSE)</b> at <b>Jahangirnagar University</b>.
 </p>
 
 <br>
