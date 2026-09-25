@@ -17,7 +17,7 @@ I am a passionate and curious learner, currently a <b>3rd Year, 2nd Semester</b>
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 <br>
